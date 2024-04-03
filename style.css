@@ -1,0 +1,13 @@
+textarea {
+  width: 70%;
+  height: 5rem;
+}
+button {
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+#resultArea {
+  height: 0;
+  overflow: hidden;
+}
